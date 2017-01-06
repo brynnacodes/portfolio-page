@@ -7,11 +7,19 @@
   </head>
   <body>
     <div class="jumbotron">
-      <nav class="navbar">
-        <ul class="navbar-list">
-        </ul>
-      </nav>
-      <!-- <div class="container"> -->
+      <div id="navbar-container" class="container">
+        <nav class="navbar">
+          <ul class="navbar-list">
+            <li id="nav-about" class="nav-item active">
+              <a class="nav-link" href="#">About Me</a>
+            </li>
+            <li id="nav-linkedin" class="nav-item">
+              <a class="nav-link" href="#">Linkedin Me</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div class="container">
         <h3 id="top-header" class="text-center">
           Hello, my name is
         </h3>
@@ -19,11 +27,11 @@
           Brynna Klamkin-McCarter
         </h1>
         <h3 id="bottom-header" class="text-center">
-          epicodus student, aspiring web developer, educator
+          epicodus student, aspiring web developer, educator living in beautiful Portland, Oregon
         </h3>
-      <!-- </div> -->
+      </div>
     </div>
-    <div class="container-fluid">
+    <div id="project-container" class="container-fluid">
       <div class="row">
         <div id="left-column" class="col-md-4">
           <div id="proj-1" class="project">
