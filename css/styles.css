@@ -1,5 +1,5 @@
 Body {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
   text-transform: uppercase;;
 }
 
@@ -19,8 +19,6 @@ Body {
   background-size: 100% 100%;
 }
 
-#navbar-container {
-}
 #navbar-container li {
   list-style: none;
   border-bottom: 1px solid grey;
@@ -71,15 +69,18 @@ Body {
 #about-me-column {
   background-color:lightgrey;
   text-transform: none;
-  text-align: center;
   padding: 20px;
 }
 
-#about-me-column p {
-  display: inline;
+#about-me-column h3 {
+  text-align: center;
+  margin: 20px;
 }
 
 #brynna {
   width: 200px;
-  display: block;
+}
+
+#about-me-p {
+  float: none;
 }
