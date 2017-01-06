@@ -1,0 +1,28 @@
+.jumbotron {
+  background-image: url("../img/jumbo.jpg");
+  background-size: 100% auto;
+}
+
+.jumbotron .container .text-center {
+  color: white;
+}
+
+#left-column {
+
+}
+
+#center-column {
+}
+
+#right-column {
+}
+
+.project {
+  background-color: #9CAD49;
+  border-radius:2px;
+  border: 1px solid black;
+  margin: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
