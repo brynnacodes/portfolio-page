@@ -1,16 +1,43 @@
+Body {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;;
+}
+
+.nav-item a:link {
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+  text-decoration: none;
+}
+
+.nav-item a:visited {
+  text-decoration: none;
+}
 .jumbotron {
   background-image: url("../img/jumbo.jpg");
   background-size: 100% 100%;
 }
 
 #navbar-container {
-  border: 2px solid red;
 }
 #navbar-container li {
   list-style: none;
+  border-bottom: 1px solid grey;
+  float: right;
+  margin-right: 10px;
 }
 .jumbotron .container .text-center {
   color: white;
+}
+
+#top-header {
+  font-size: 14pt;
+}
+
+#bottom-header {
+  font-size: 12pt;
+  font-variant: small-capss;
 }
 
 #left-column {
@@ -33,4 +60,20 @@
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.project p {
+  text-transform: none;
+}
+
+.project a:link {
+  text-decoration: none;
+}
+
+.project a:hover {
+  text-decoration: none;
+}
+
+.project a:visited {
+  text-decoration: none;
 }
