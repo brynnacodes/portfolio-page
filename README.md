@@ -6,14 +6,13 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+This webpage showcases knowledge gained in the first week of Epicodus, including: html tags, classes vs ids, Bootstrap classes and grid system, css styling rules, cascading, and box model. This portfolio contains a link to six of my github repositories with projects completed in the first week of Epicodus. It also has an about me section which gives some background info on me, my interests, and what brought me to Epicodus.
 
 ## Setup/Installation Requirements
 
 * Clone this repository
 * Open index.html in your preferred web browser
-* Alternately, you may visit the gh-pages version of this website here:
-
+* Alternately, you may visit the gh-pages version of this website [here:](#).
 
 
 ## Known Bugs

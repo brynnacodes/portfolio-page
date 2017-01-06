@@ -1,6 +1,11 @@
 body {
-  font-family: 'Julius Sans One', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;;
+}
+
+.jumbotron {
+  background-image: url("../img/jumbo.jpg");
+  background-size: 100% 100%;
 }
 
 .nav-item a:link {
@@ -15,16 +20,11 @@ body {
   text-decoration: none;
 }
 
-.jumbotron {
-  background-image: url("../img/jumbo.jpg");
-  background-size: 100% 100%;
-}
-
 #navbar-container li {
   list-style: none;
   border-bottom: 1px solid grey;
   float: right;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 .jumbotron .container .text-center {
@@ -36,11 +36,18 @@ body {
   font-size: 14pt;
 }
 
+#name-header {
+  font-family: 'Julius Sans One', sans-serif;
+}
+
 #bottom-header {
   font-size: 12pt;
   font-variant: small-capss;
 }
 
+#project-container {
+  margin-bottom: 20px;
+}
 #project-container h3 {
   text-align: center;
 }
@@ -79,6 +86,8 @@ body {
   text-align: center;
   margin: 20px;
   padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid grey;
 }
 
 #brynna {
@@ -91,4 +100,5 @@ body {
   margin-right: auto;
   margin-left: auto;
   padding: 20px;
+  font-size: 12pt;
 }
