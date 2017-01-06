@@ -102,3 +102,7 @@ body {
   padding: 20px;
   font-size: 12pt;
 }
+
+#about-me-p .bold {
+  font-weight: bold;
+}
