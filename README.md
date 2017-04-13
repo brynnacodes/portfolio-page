@@ -12,7 +12,7 @@ This webpage showcases knowledge gained in the first week of Epicodus, including
 
 * Clone this repository
 * Open index.html in your preferred web browser
-* Alternately, you may visit the gh-pages version of this website [here:](https://brynnacodes.github.io/portfolio-page/).
+* Alternately, you may visit the gh-pages version of this website [here](https://brynnacodes.github.io/portfolio-page/).
 
 
 ## Known Bugs
